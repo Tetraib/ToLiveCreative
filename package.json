@@ -5,6 +5,7 @@
   "repository": "",
   "author": "",
   "dependencies": {
-    "express": "4.x.x"
+    "express": "4.x.x",
+    "jade": "0.x.x"
   }
 }
